@@ -1,0 +1,32 @@
+-------------- Gold Bank --------------
+Você efetuou um Depósito
+Número da Conta: 1
+Tipo de Conta: Corrente
+Nome do Cliente: A
+Saldo anterior: 0.0
+Saldo atual: 100.0
+---------------------------------------
+-------------- Gold Bank --------------
+Você efetuou um Depósito
+Número da Conta: 1
+Tipo de Conta: Corrente
+Nome do Cliente: A
+Saldo anterior: 100.0
+Saldo atual: 200.0
+---------------------------------------
+-------------- Gold Bank --------------
+Você efetuou um Depósito
+Número da Conta: 1
+Tipo de Conta: Poupanca
+Nome do Cliente: A
+Saldo anterior: 0.0
+Saldo atual: 100.0
+---------------------------------------
+-------------- Gold Bank --------------
+Você efetuou um Depósito
+Número da Conta: 1
+Tipo de Conta: Poupanca
+Nome do Cliente: SAA
+Saldo anterior: 0.0
+Saldo atual: 200.0
+---------------------------------------
